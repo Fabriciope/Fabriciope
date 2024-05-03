@@ -7,7 +7,7 @@
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 
-<h4 align="center">Principais linguagens e ferramentas:</h3>
+<h3 align="center">Principais linguagens e ferramentas:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img width="280" src="https://skillicons.dev/icons?i=php,laravel,golang,mysql,docker,linux" />
