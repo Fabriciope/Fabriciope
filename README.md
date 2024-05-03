@@ -1,6 +1,6 @@
 ### Seja bem vindo ao meu perfil 👋
 
- Me chamo Fabrício Pereira Alves. Atualmente estou estudando para ser um desenvolvedor back-end. Estou cursando Engenharia de Software pela Universidade Anhembi Morumbi e sou certificado como Técnico em Informática pelo Senac.
+ Olá me chamo Fabrício Pereira Alves. Atualmente estou estudando para ser um desenvolvedor back-end. Estou cursando Engenharia de Software pela Universidade Anhembi Morumbi e sou certificado como Técnico em Informática pelo Senac.
 
 <!-- - 🔭 I’m currently working on ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
