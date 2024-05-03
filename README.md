@@ -10,10 +10,10 @@
 <h4 align="center">Principais linguagens e ferramentas:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,golang,mysql,docker,linux" />
+    <img width="280" src="https://skillicons.dev/icons?i=php,laravel,golang,mysql,docker,linux" />
   </a>
 </p>
 
 <br>
 
-#### 📫Contato: <a target="_black" href="mailto:fabricioalves.dev@gmail.com"> fabricioalves.dev@gmail.com <a>
+ 📫**Contato:** <a target="_black" href="mailto:fabricioalves.dev@gmail.com"> fabricioalves.dev@gmail.com <a>
