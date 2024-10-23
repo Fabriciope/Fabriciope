@@ -1,6 +1,6 @@
 ## Seja bem vindo ao meu perfil 👋
 
- Olá me chamo Fabrício Pereira Alves. Atualmente trabalho como desenvolvedor back-end | Laravel. Estou cursando Engenharia de Software pela Universidade Anhembi Morumbi e sou certificado como Técnico em Informática pelo Senac.
+ Olá me chamo Fabrício Pereira Alves. Atualmente trabalho como desenvolvedor back-end PHP | Laravel. Estou cursando Engenharia de Software pela Universidade Anhembi Morumbi e sou certificado como Técnico em Informática pelo Senac.
 
 <!-- - 🔭 I’m currently working on ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
