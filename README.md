@@ -15,6 +15,6 @@
 
 ---
 
- 🗃️ <strong>Portfólio:</strong> <a target="_black" href="https://www.fabriciopa.com.br"> www.fabriciopa.com.br<a>
+ 🗃️ <strong>Portfólio:</strong> <a href="https://www.fabriciopa.com.br" target="_blank"> www.fabriciopa.com.br<a>
    <br><br>
- 📫 <strong>Contato:</strong> <a target="_black" href="mailto:fabricioalves.dev@gmail.com">fabricioalves.dev@gmail.com<a><br>
+ 📫 <strong>Contato:</strong> <a href="mailto:fabricioalves.dev@gmail.com">fabricioalves.dev@gmail.com<a><br>
